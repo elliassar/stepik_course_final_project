@@ -1,5 +1,7 @@
 # stepik_course_final_project
 
+Выполнение итого проекта по тестированию сайта
+
 1. Проверка всех тестов, выполнить команду: "pytest -v --tb=line --language=en test_product_page.py"
 
 2. Проверка тестов, помеченных как "need_review", выполнмить команду: "pytest -v --tb=line --language=en -m need_review test_product_page.py"
